@@ -1,0 +1,17 @@
+Ejercicio PseudoCodigo 3 - Averiguar si un numero X es primo o no
+
+Inicio
+	Escribe "Introduce numero"
+	Lee numero
+	esPrimo = verdadero
+
+	Para (contador = 2) hasta (numero-1) hacer
+		Si(numero%contador==0) entonces
+			esPrimo = falso 
+	FinPara
+
+	Si (esPrimo) entonces
+		Escribe "El numero es primo"
+	Sino
+		Escribe "El numero no es primo"
+Fin

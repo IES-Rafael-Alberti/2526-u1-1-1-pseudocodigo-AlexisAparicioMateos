@@ -1,0 +1,10 @@
+Ejercicio PseudoCodigo 1 - Averiguar si un numero X es par o impar
+
+Inicio
+	Escribe "Introduce un numero"
+	Lee numero
+		Si (numero%2==0) entonces
+			Escribe "El numero es par"
+		Sino 
+			Escribe "El numero es impar"
+Fin

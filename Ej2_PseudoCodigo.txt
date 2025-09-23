@@ -1,0 +1,11 @@
+Ejercicio PseudoCodigo 2 - La tabla del numero X desde el 1 hasta el 10
+
+Inicio
+	Contador = 1
+	Escribe "Introduce un numero"
+	Lee numero
+
+	Mientras (contador<=10) hacer
+		Escribe "numero*contador"
+		Contador++		
+Fin
