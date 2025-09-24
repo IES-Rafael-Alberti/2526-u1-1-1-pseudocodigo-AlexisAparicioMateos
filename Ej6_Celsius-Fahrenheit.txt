@@ -1,1 +1,8 @@
-Prueba4
+Ejercicio PseudoCodigo 6 - Conversión celsius a Fahrenheit
+
+Inicio
+	Escribe "Introduce temperatura en Celsius(Cº)"
+	Lee temp_celsius
+	temp_fahrenheit = (temp_celsius*(9/5))+32
+	Escribe "La temperatura en fahrenheit es: ", temp_fahrenheit
+Fin

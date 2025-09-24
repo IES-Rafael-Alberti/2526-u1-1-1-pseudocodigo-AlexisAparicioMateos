@@ -3,5 +3,5 @@ Ejercicio PseudoCodigo 4 - Solicitar nombre del usuario y mostrar saludo persona
 Inicio
 	Escribe "Introduce un nombre"
 	Lee nombre
-	Escribe "Hola, [nombre]."
+	Escribe "Hola, ", nombre
 Fin
