@@ -1,0 +1,12 @@
+Ejercicio PseudoCodigo 9 - Suma 3 numeros
+
+Inicio
+	Escribe "Introduce el 1º numero"
+	Lee numero1
+	Escribe "Introduce el 2º numero"
+	Lee numero2
+	Escribe "Introduce el 3º numero"
+	Lee numero3
+	sumaTotal = numero1+numero2+numero3
+	Escribe "La suma total es: ", sumaTotal
+Fin
