@@ -1,0 +1,12 @@
+Ejercicio PseudoCodigo 11 - Suma 3 numeros sin variables adicionales
+
+Inicio
+	Escribe "Escribe el 1º numero"
+	Lee numero1
+	Escribe "Escribe el 2º numero"
+	Lee numero2
+	Escribe "Escribe el 3º numero"
+	Lee numero3
+	numero3 = numero1+numero2+numero3
+	Escribe "La suma total es: ", numero3
+Fin
