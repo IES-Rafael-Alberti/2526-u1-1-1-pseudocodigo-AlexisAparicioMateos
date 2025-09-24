@@ -1,0 +1,13 @@
+Ejercicio PseudoCodigo 10 - Suma 3 numeros usando solo 2 variables
+
+Inicio
+	Escribe "Introduce el 1º numero"
+	Lee numero1
+	Escribe "Introduce el 2º numero"
+	Lee numero2
+	sumaTotal = numero1+numero2
+	Escribe "Introduce el 3º numero"
+	Lee numero2
+	sumaTotal = sumaTotal+numero2
+	Escribe "La suma total es: ", sumaTotal
+Fin
