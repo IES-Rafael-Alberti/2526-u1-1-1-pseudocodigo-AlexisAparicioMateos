@@ -1,0 +1,10 @@
+Ejercicio PseudoCodigo 8 - Dado un precio final con IVA, calcular precio sin IVA y el IVA pagado (asumiendo un 10%)
+
+Inicio
+	Escribe "Introduce precio final con IVA (Se asume que es un 10%)"
+	Lee precio_final
+	precio_sin_iva = precio_final/1.10
+	iva_pagado = precio_final-precio_sin_iva
+	Escribe "El precio sin IVA es: ", precio_sin_iva
+	Escribe "El IVA pagado es: ", iva_pagado
+Fin
