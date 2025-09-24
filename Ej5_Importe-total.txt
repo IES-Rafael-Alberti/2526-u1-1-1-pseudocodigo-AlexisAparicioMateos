@@ -1,0 +1,10 @@
+Ejercicio PseudoCodigo 5 - Cálculo de importe total de un servicio
+
+Inicio
+	Escribe "Introduce nº de horas"
+	Lee num_horas
+	Escribe "Introduce coste/hora"
+	Lee coste_hora
+	CosteTotal = num_horas*coste_hora
+	Escribe "El importe total es [CosteTotal]"
+Fin
