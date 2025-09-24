@@ -1,0 +1,10 @@
+Ejercicio PseudoCodigo 7 - Calculo de precio final con IVA
+
+Inicio
+	Escribe "Introduce precio sin IVA"
+	Lee precio_sin_iva
+	Escribe "Introduce IVA(%)"
+	Lee iva
+	precioFinal = ((precio_sin_iva*iva)/100)+precio_sin_iva
+	Escribe "El precio final es: ", precioFinal
+Fin
